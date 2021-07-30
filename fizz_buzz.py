@@ -16,5 +16,6 @@ def func_fizz_buzz(n):
             fizzBuzz.append(i)
     return fizzBuzz
 
-if name == __main__:
-    func_fizz_buzz(100)  
+if __name__ == '__main__':
+    func_fizz_buzz(100) 
+
