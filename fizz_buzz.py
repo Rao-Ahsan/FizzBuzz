@@ -16,3 +16,4 @@ def func_fizz_buzz(n):
             fizzBuzz.append(i)
     return fizzBuzz
     
+func_fizz_buzz(100)  
